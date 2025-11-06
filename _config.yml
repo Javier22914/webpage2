@@ -1,13 +1,11 @@
-title: mi sitio web sencillo
-description: Página creada con jekyll y GitHub Pages 
-# _config.yml
+title: "Mi sitio web sencillo"
+description: "Página creada con Jekyll y GitHub Pages"
+url: "https://Javier22914.github.io"
+baseurl: "" 
 
-# _config.yml
-theme: "minimal-mistakes-jekyll"
+theme: "minimal-mistakes-jekyll" 
 
-theme: "minimal-mistakes-jekyll"
 
-# Opciones adicionales
 exclude:
   - Gemfile
   - Gemfile.lock
