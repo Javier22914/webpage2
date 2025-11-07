@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Acerca de
+permalink: /contact/
 ---
 
 Soy un alumno de informática que está 
