@@ -8,7 +8,7 @@
 ## Gestión Administrativa
 ## Cuidados Auxiliares de Enfermería
 
-# C.F. de Formación Profesional Básica
+# C.F. de Grado Básico
 ## Informática de oficina
 ## Servicios administrativos 
 ## Alojamiento y lavandería
