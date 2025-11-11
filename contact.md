@@ -1,7 +1,7 @@
 ---
 title: "Contacto"
 layout: splash
-permalink: /acercade/
+permalink: /contacto/
 ---
 
 Página de contacto
