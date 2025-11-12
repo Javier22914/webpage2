@@ -64,6 +64,6 @@ Aquí pondremos más cosillas
     <td>15</td>
   </tr>
   
-</table>ión, mas pequeño es el titulo)
+</table>
 
 
