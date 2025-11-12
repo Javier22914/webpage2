@@ -68,7 +68,7 @@
 |1|	Ciencias aplicadas | 140 |
 |1|	Comunicación y sociedad | 140 |
 |1|	Tutoría |	30 |
-|11	Itienerario personal para la empleabilidad |	55 |
+|1|	Itienerario personal para la empleabilidad |	55 |
 |2|	Aplicaciones básicas de ofimática |	310 |
 |2|	Archivo y comunicación |	200 |
 |2|	Preparación de pedidos y venta de productos |	150 |
